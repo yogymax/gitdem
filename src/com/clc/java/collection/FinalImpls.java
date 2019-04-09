@@ -2,6 +2,7 @@ package com.clc.java.collection;
 
 public class FinalImpls {
 	
+	int num=10;
 	/**
 	 * 
 		final int num1 = 10; // thread stack
